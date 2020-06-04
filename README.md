@@ -16,15 +16,18 @@ Test log files are provided in "root/logs".
 
 ## Getting started:
 
-I used Tkinter standard GUI package (it is built into standard Python library), Pandas, Matplotlib Pyplot and Configparser.
+I used Tkinter standard GUI package (it is built into standard Python library), Tkintertable, Pandas, Matplotlib Pyplot and Configparser.
 
-1. Install Matplotlib:
-    - https://matplotlib.org/users/installing.html
+1. Install Tkintertable:
+    - https://pypi.org/project/tkintertable/
 
 2. Install Pandas:
     - https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 
-3. Run the program in the root directory: 
+3. Install Matplotlib:
+    - https://matplotlib.org/users/installing.html
+
+4. Run the program in the root directory: 
     - python main.py
 
 //malg0102
