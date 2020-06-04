@@ -10,8 +10,11 @@ Test log files are provided in "root/logs".
 
 ## In the configuration file: 
 - The separator must be surrounded by quotes "
+
 "Separators longer than 1 character and different from '\s+' will be interpreted as regular expressions and will also force the use of the Python parsing engine." https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
 - Labels must be stored in a list.
+
+## Getting started:
 
 I used Tkinter standard GUI package (it is built into standard Python library), Pandas, Matplotlib Pyplot and Configparser.
 
