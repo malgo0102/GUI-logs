@@ -6,7 +6,6 @@
 - Includes statistics: max and min value 
 - Visualizes data in a form of a plot
 
-Test log files are provided in "root/logs".
 
 ## In the configuration file: 
 - The separator must be surrounded by quotes "
